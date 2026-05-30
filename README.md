@@ -11,3 +11,18 @@ Ideas
 -----
 
 Just bolt stuff down here...
+
+Java
+----
+
+
+
+
+.net
+----
+free book with maybe examples:
+https://michaelscodingspot.com/free-book/
+
+
+sql
+---
